@@ -1,0 +1,10 @@
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\obj\Debug\KalkulatorEvent.csprojAssemblyReference.cache
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\obj\Debug\KalkulatorEvent.frmHasil.resources
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\obj\Debug\KalkulatorEvent.frmKalkulator.resources
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\obj\Debug\KalkulatorEvent.Properties.Resources.resources
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\obj\Debug\KalkulatorEvent.csproj.GenerateResource.cache
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\bin\Debug\KalkulatorEvent.exe.config
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\bin\Debug\KalkulatorEvent.exe
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\bin\Debug\KalkulatorEvent.pdb
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\obj\Debug\KalkulatorEvent.exe
+F:\sem3\komp grafis\KalkulatorEvent\KalkulatorEvent\obj\Debug\KalkulatorEvent.pdb
